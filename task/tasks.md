@@ -2,7 +2,8 @@
 
 ## Phase 1: Project Setup & Initialization
 - [ ] Initialize Next.js project (App Router, TypeScript, Tailwind)
-- [ ] Install dependencies (Framer Motion, next-mdx-remote, @tailwindcss/typography)
+- [ ] I dependencies (Framer Motion, next-mdx-remote, @tailwindcss/typography)
+test
 - [ ] Configure `tailwind.config.ts` with Ghibli theme colors
 
 ## Phase 2: Core Layout & Styling
